@@ -1,4 +1,4 @@
-# Game and Engine for Windows
+# Game and Engine for Windows <br> (Currently private, avaliable upon request)
 
 ---
 
@@ -34,6 +34,6 @@ Npc triangles will spawn every so often and follow the player
 - Lighting
 - AABB collision detection, using Minimum Translation Vector resolution.
 - Minimal entity system
-- Npcs that track the player
-- Seperation between platform and game code for future cross platform integration
+- NPCs that track the player
+- Separation between platform and game code for future cross-platform integration
 - Particle system
