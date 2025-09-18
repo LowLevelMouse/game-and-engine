@@ -1,9 +1,7 @@
 # Game and Engine for Windows <br> (Currently private, avaliable upon request)
 
 ---
-<img width="2378" height="1330" alt="game_snap_3" src="https://github.com/user-attachments/assets/387861cb-f5da-4b6a-9c4a-eed45cef4de3" />
-<img width="2376" height="1337" alt="game_snap_1" src="https://github.com/user-attachments/assets/b86302ea-63c8-4f89-be07-f11aed3b67fd" />
-<img width="2377" height="1342" alt="game_snap_4" src="https://github.com/user-attachments/assets/23487012-c53b-4c9b-a5e6-cf4325909bbf" />
+https://github.com/user-attachments/assets/6d791084-30fa-4aa6-ac46-4409500ae99e
 
 ## How to Run
 
@@ -12,9 +10,9 @@ Run the `build.bat` file in the project root, then execute `win32.exe`
 ---
 
 ## How to Play
-Use the arrow keys to move the triangle player around
+Use the WASD keys to move. Use the mouse to aim. Left click shoots projectiles.
 
-Npc triangles will spawn every so often and follow the player
+Npc triangles will spawn every so often and follow the player, don't let them get too close!
 
 ---
 
